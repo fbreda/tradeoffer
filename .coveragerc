@@ -1,0 +1,6 @@
+[run]
+omit=
+    *migrations*,
+    *tests*,
+    tradeoffer_core*,
+    conftest.py

@@ -1,0 +1,16 @@
+Django==4.0.4
+ipython==8.3.0
+mypy==0.950
+Pillow==9.1.0
+psycopg2==2.9.3
+django-debug-toolbar==3.5.1
+django-model-utils==4.2.0
+factory-boy==3.2.1
+pytest==7.1.2
+pytest-cov==3.0.0
+pytest-django==4.5.2
+gunicorn==20.1.0
+
+django-autoslug==1.9.8
+
+
